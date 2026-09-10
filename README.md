@@ -32,7 +32,7 @@ Gradient Descent optimization from scratch.
 [![Theory PDF](https://img.shields.io/badge/Theory-PDF-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/DevanshiCodesAI/Predective_Insight_Engine_SupervisedLearning/blob/main/Predictive_Insight_Engine_Theory_Notes.pdf)
 [![Task](https://img.shields.io/badge/View-Project%20Task-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/17A-rlWF0LdG0Er8WcyN76Ng8nsYIEijZxZ3oSc4tedk/edit?tab=t.0)
 [![Video](https://img.shields.io/badge/Watch-Demo%20Video-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_GOOGLE_DRIVE_VIDEO_LINK)
-[![Output](https://img.shields.io/badge/View-Project%20Output-00A67E?style=for-the-badge&logo=googlecolab&logoColor=white)](YOUR_OUTPUT_LINK)
+[![Output](https://img.shields.io/badge/View-Project%20Output-00A67E?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/DevanshiCodesAI/Predective_Insight_Engine_SupervisedLearning/tree/main/Outputs%20Pr1SL)
 
 <br>
 
